@@ -1,4 +1,4 @@
-<img src="https://files.oaiusercontent.com/file-f4xehfLACxVberAGUWzBYFUe?se=2024-10-21T17%3A51%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De80a1b0d-2e9e-4a83-9bf9-65baa47e248c.webp&sig=p2kSt%2B918tn/qWFoMdwi/gRRm/6bgyCkelACdUGwRD0%3D" alt="GitHub Bio Cover" width="800" height="400">
+![DALL·E 2024-11-20 17 10 28 - A visually appealing horizontal GitHub profile cover design with a tech-themed aesthetic  It features a sleek and modern dark background with glowing ](https://github.com/user-attachments/assets/e8de7bce-4c9f-4401-9275-e2001e49d350)
 
 - 👋 Hi, I’m @yash-shewalkar
 - 👀 I’m interested in Web Dev, GEN-AI, NLP, ML, Image Processing
